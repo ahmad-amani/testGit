@@ -5,13 +5,18 @@ require_once "header.html";
 
 <div>
 	salam
-
     <?php
     require_once 'body.php'
     ?>
 	oooooooooooooooooooooooooooooops
 </div>
 
+
+
+
+<h1>salamati</h1>
+ssss
+
 <div>
 	edit in fixPages branch
 </div>
@@ -39,6 +44,10 @@ require_once "header.html";
 <div>
 	edit in fixPages branch
 </div>
+
+
+
+<h1>salamati</h1>ssss
 
 <?php
 require_once "footer.php"
