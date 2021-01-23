@@ -7,6 +7,10 @@ require_once "header.html";
 	salam
 </div>
 
+
+
+<h1>salamati</h1>
+
 <?php
 require_once "footer.html"
 ?>
