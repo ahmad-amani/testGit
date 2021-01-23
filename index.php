@@ -14,7 +14,7 @@ require_once "header.html";
 
 
 
-<h1>salamati</h1>
+<h1>salamati</h1>ssss
 
 <?php
 require_once "footer.php"
